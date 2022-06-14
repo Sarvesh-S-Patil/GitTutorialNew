@@ -1,3 +1,4 @@
 *.log
 /Static/
-/Static/dir/
+dir/
+
